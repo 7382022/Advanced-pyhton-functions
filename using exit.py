@@ -1,7 +1,7 @@
 # python progran to demonstrate
 #exit(
 
-for i in range(10):
+for i in range(100):
     #If the value of i becomes
     # 5 then the program id forced
     # to exit
